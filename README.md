@@ -1,0 +1,1 @@
+This repository contain source code of osm data collector using overpass api.
